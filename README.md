@@ -29,7 +29,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/CHIKOJgg/CHIKOJgg/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
