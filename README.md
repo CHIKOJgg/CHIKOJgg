@@ -2,13 +2,13 @@
 
 ###
 
-<h3 align="center">I'm a beginner frontend developer. I can perform variety of workloads. I know HTML, CSS, JavaScript. Keep learning react.js, tailwind and other tecnologies.</h3>
+<h3 align="left">I'm a beginner frontend developer. I can perform variety of workloads. I know HTML, CSS, JavaScript. Keep learning react.js, tailwind and other tecnologies.</h3>
 
 ###
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -22,16 +22,18 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CHIKOJgg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="200" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=CHIKOJgg&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CHIKOJgg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=CHIKOJgg&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=10&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
