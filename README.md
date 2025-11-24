@@ -2,7 +2,8 @@
 
 ###
 
-<h3 align="left">I'm a frontend developer. I can perform variety of workloads. I know HTML, CSS, JavaScript. Keep learning react.js, tailwind and other technologies.</h3>
+<h3 align="left">I'm a frontend developer. I can perform variety of workloads. I know HTML, CSS, JavaScript. Keep learning react.js, tailwind and other technologies.
+also enrolling in telegram mini-apps(one big project is coming)</h3>
 
 ###
 
