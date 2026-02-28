@@ -1,86 +1,75 @@
-# 👋 Hi, I’m Miroslau (CHIKOJgg)
+# 👋 Hi — I'm Miroslau (CHIKOJgg)
 
-### 👨‍💻 Java Developer | Software Engineer | Problem Solver
+### 👨‍💻 Middle Java Backend Developer — reliable, scalable systems
 
-I’m a passionate **Java developer** focused on writing clean, maintainable code and delivering real-world solutions. I build and refine projects that highlight core **object-oriented principles**, modern tooling, testing practices, and scalable architecture.
-
-Whether it’s backend logic, utility libraries, or learning new frameworks — I enjoy solving problems and leveling up my skills with every project.
+I build backend services and libraries in **Java** with a focus on maintainability, testability and production readiness. I deliver well-tested REST APIs, robust concurrency solutions and pragmatic architecture that solves business problems.
 
 ---
 
-## 🔥 About Me
+## 🔎 Summary
 
-- 👨‍🎓 Actively developing projects using **Java** with strong emphasis on OOP, data structures, and design patterns.
-- 🚀 Writing scalable and readable code — with automated testing and CI-ready standards.
-- 📈 Comfortable with build tools like **Maven** and **Gradle**, and unit testing with **JUnit**.
-- 🤝 I contribute to open-source, collaborate with others, and share knowledge through well-documented code.
-
----
-
-## 💡 Tech Stack
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" alt="Maven" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="40" alt="Gradle" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit5-plain.svg" height="40" alt="JUnit" />
-</div>
-
-**Core skills:**
-- 🧠 Java (OOP, Collections, Multithreading, Exceptions)
-- ⚙️ Maven & Gradle build systems
-- 🔍 Unit testing with JUnit
-- 💻 Git version control
-
-**Learning / Improving:**
-- Spring Boot & REST API development
-- Microservices fundamentals
-- Clean Architecture & SOLID principles
+- Middle backend Java developer experienced in designing and implementing REST services, service layers and data access patterns.  
+- Strong foundation in OOP, concurrency, collections and JVM internals.  
+- Practical experience with CI/CD, containerization and automated testing.  
+- Emphasize clean code, SOLID principles and measurable quality (tests, metrics, logs).
 
 ---
 
-## 📌 Pinned Projects
+## 🛠 Tech Stack
 
-Here are some highlighted repositories showcasing my Java work:
+**Languages & Platforms**
+- Java 8 / 11 / 17 — OOP, Stream API, concurrency primitives
 
-👉 *Replace with your repos if needed — just update names and links.*
+**Frameworks & Libraries**
+- Spring Boot (REST, Data, Security), Spring MVC, Spring Data JPA  
+- Hibernate / JPA, JDBC
 
-| Project | Description |
-| ------- | ----------- |
-| **`Java-Utils`** | Utility library of reusable Java functions |
-| **`REST-Service`** | Backend REST API with Maven and JUnit tests |
-| **`DataStructures`** | Implementations of core data structures in Java |
-| **`Concurrency-Examples`** | Threading & multithreading samples |
+**Build & DevOps**
+- Maven, Gradle, Docker, GitHub Actions (CI pipelines)
 
----
+**Datastores & Caching**
+- PostgreSQL / MySQL, Redis
 
-## 📊 GitHub Stats
+**Testing**
+- JUnit 5, Mockito, integration tests (testcontainers / in-memory DB)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CHIKOJgg&layout=compact&theme=dark" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=CHIKOJgg&show_icons=true&theme=dark" alt="GitHub Stats" />
-</div>
-
----
-
-## 🤝 Let’s Connect
-
-Connect with me for collaborations or opportunities:
-
-📧 **Email:** nofckwithme@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/miroslav-pisaryk-953490261
+**Tools**
+- Git, IntelliJ IDEA, SLF4J / Logback, Prometheus/Health checks (basic)
 
 ---
 
-## 🚀 What I’m Working On
+## ✅ Typical Responsibilities (Middle level)
 
-I’m currently building and refining **Java backend projects**, improving testing automation, and exploring **Spring Boot ecosystem** for scalable services. More repositories and learning projects are coming soon!
+- Design and implement REST APIs with clear contracts, validation and error handling.  
+- Implement service/repository layers with transactional correctness and concurrency control.  
+- Write unit and integration tests to keep regressions predictable.  
+- Profile and optimize critical queries and hot paths; apply appropriate indexing.  
+- Create Docker images and basic CI pipelines for build → test → publish.  
+- Perform code reviews and mentor junior engineers.
 
 ---
 
-✨ *Thanks for visiting my GitHub — feel free to explore my code and reach out!*
+## 📌 Highlighted Projects (replace with your repositories)
+
+> Update repo names, descriptions and links below with your real projects.
+
+- **`rest-service-sample`** — Spring Boot REST service: CRUD, pagination, DTOs, JPA, unit + integration tests.  
+  *Run locally:* `mvn spring-boot:run`  
+  *Tests:* `mvn test`
+
+- **`java-utils`** — Small utility library (string helpers, collection utils, safe parsers).  
+  *Add as dependency or use locally.*
+
+- **`concurrency-examples`** — Examples of threading patterns, executors, locks, producer-consumer.
+
+---
+
+## ▶️ Quick start (example)
+
+**Run service (Maven)**  
+```bash
+git clone https://github.com/CHIKOJgg/rest-service-sample.git
+cd rest-service-sample
+mvn clean install
+mvn spring-boot:run
+# service starts on http://localhost:8080
