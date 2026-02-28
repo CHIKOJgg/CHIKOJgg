@@ -1,75 +1,89 @@
-# 👋 Hi — I'm Miroslau (CHIKOJgg)
+# 👋 Hey, I’m Miroslau (CHIKOJgg)
 
-### 👨‍💻 Middle Java Backend Developer — reliable, scalable systems
+### 🚀 Middle Java Backend Developer — building reliable, scalable backend systems
 
-I build backend services and libraries in **Java** with a focus on maintainability, testability and production readiness. I deliver well-tested REST APIs, robust concurrency solutions and pragmatic architecture that solves business problems.
+I’m a backend engineer specializing in **Java** and modern backend architecture. I design and implement REST APIs and backend services using best practices, clean code principles, automated testing, and production-ready infrastructure.
 
----
-
-## 🔎 Summary
-
-- Middle backend Java developer experienced in designing and implementing REST services, service layers and data access patterns.  
-- Strong foundation in OOP, concurrency, collections and JVM internals.  
-- Practical experience with CI/CD, containerization and automated testing.  
-- Emphasize clean code, SOLID principles and measurable quality (tests, metrics, logs).
+Driven by quality and real-world requirements, I focus on maintainable systems with strong testing coverage and scalable design.
 
 ---
 
-## 🛠 Tech Stack
+## 💼 Skills & Technologies (Modern Backend Stack)
 
-**Languages & Platforms**
-- Java 8 / 11 / 17 — OOP, Stream API, concurrency primitives
+### 🧠 Core
+- **Java 11 / 17 / 21** — OOP, Streams, concurrency, memory model, JVM internals
 
-**Frameworks & Libraries**
-- Spring Boot (REST, Data, Security), Spring MVC, Spring Data JPA  
-- Hibernate / JPA, JDBC
+### 🛠 Backend Frameworks
+- **Spring Boot** — REST, configuration, dependency injection  
+- **Spring Data JPA / Hibernate** — ORM and DB mappings  
+- **Spring Security** (JWT & token-based auth)
 
-**Build & DevOps**
-- Maven, Gradle, Docker, GitHub Actions (CI pipelines)
+### 🌐 API & Integrations
+- REST API design — controllers, DTOs, error handling, pagination
+- OpenAPI / Swagger documentation
 
-**Datastores & Caching**
-- PostgreSQL / MySQL, Redis
+### 🧪 Testing
+- **JUnit 5**, **Mockito** — unit and integration tests  
+- Testcontainers (DB / service containers in CI)
 
-**Testing**
-- JUnit 5, Mockito, integration tests (testcontainers / in-memory DB)
+### 🗄 Databases
+- **PostgreSQL / MySQL** — relational design, indexing, optimized queries  
+- **Redis** — caching / session storage
 
-**Tools**
-- Git, IntelliJ IDEA, SLF4J / Logback, Prometheus/Health checks (basic)
+### 🐳 DevOps & CI/CD
+- **Docker / Docker Compose** — containerization of services  
+- **GitHub Actions** — CI pipelines (build → test → analyze)  
+- Maven & Gradle builds
 
----
-
-## ✅ Typical Responsibilities (Middle level)
-
-- Design and implement REST APIs with clear contracts, validation and error handling.  
-- Implement service/repository layers with transactional correctness and concurrency control.  
-- Write unit and integration tests to keep regressions predictable.  
-- Profile and optimize critical queries and hot paths; apply appropriate indexing.  
-- Create Docker images and basic CI pipelines for build → test → publish.  
-- Perform code reviews and mentor junior engineers.
-
----
-
-## 📌 Highlighted Projects (replace with your repositories)
-
-> Update repo names, descriptions and links below with your real projects.
-
-- **`rest-service-sample`** — Spring Boot REST service: CRUD, pagination, DTOs, JPA, unit + integration tests.  
-  *Run locally:* `mvn spring-boot:run`  
-  *Tests:* `mvn test`
-
-- **`java-utils`** — Small utility library (string helpers, collection utils, safe parsers).  
-  *Add as dependency or use locally.*
-
-- **`concurrency-examples`** — Examples of threading patterns, executors, locks, producer-consumer.
+### 🔧 Tools & Practices
+- Git (feature branches / pull requests / code review workflow)
+- Logging (SLF4J / Logback), metrics, health checks
+- Clean architecture / layered design (Controller → Service → Repository)
 
 ---
 
-## ▶️ Quick start (example)
+## 👨‍💻 What I Build
 
-**Run service (Maven)**  
+I focus on backend systems that are:
+- **Well-Structured** — separation of concerns, modular packages  
+- **Tested & Reliable** — high test coverage and regression safety  
+- **Production-Ready** — Dockerized with CI/CD integration  
+- **Maintainable & Readable** — clear API contracts and docs
+
+---
+
+## 📌 Featured Projects
+
+> 📍 Replace these with your real project links and names.
+
+### 🔹 REST Service Example
+**Description:** A Spring Boot REST API with CRUD operations, service layer, DTO mapping, pagination, and DTO validation.  
+**Tech:** Spring Boot, Spring Data JPA, PostgreSQL, JUnit  
+**Highlights:**  
+- Modular architecture  
+- Unit and integration testing  
+- Clear endpoints with example responses
+
+---
+
+### 🔹 Java Utility Library
+**Description:** Utility functions for collections, safe parsing, format helpers and reusable algorithms.  
+**Tech:** Pure Java  
+**Highlights:** Encapsulated helpers used across backend modules.
+
+---
+
+### 🔹 Concurrency Examples
+**Description:** Demonstrating multi-threading patterns, ExecutorService, futures and synchronized workflows.  
+**Tech:** Core Java concurrency  
+**Highlights:** Practical examples of thread management and performance behavior.
+
+---
+
+## 🚀 Sample Usage (Docker + API)
+
+**Run locally:**
 ```bash
-git clone https://github.com/CHIKOJgg/rest-service-sample.git
-cd rest-service-sample
-mvn clean install
-mvn spring-boot:run
-# service starts on http://localhost:8080
+git clone https://github.com/CHIKOJgg/rest-service-example.git
+cd rest-service-example
+docker compose up --build
