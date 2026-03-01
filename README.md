@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Miroslau (CHIKOJgg)
+# 👋 Hey, I’m Miroslau
 
 ### 🚀 Middle Java Backend Developer — building reliable, scalable backend systems
 
@@ -8,7 +8,7 @@ Driven by quality and real-world requirements, I focus on maintainable systems w
 
 ---
 
-## 💼 Skills & Technologies (Modern Backend Stack)
+## 💼 Skills & Technologies
 
 ### 🧠 Core
 - **Java 11 / 17 / 21** — OOP, Streams, concurrency, memory model, JVM internals
