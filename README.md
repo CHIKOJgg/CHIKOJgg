@@ -56,7 +56,7 @@ I focus on backend systems that are:
 
 > 📍 Replace these with your real project links and names.
 
-### 🔹 REST Service Example
+### 🔹 MatchingEngine
 **Description:** A Spring Boot REST API with CRUD operations, service layer, DTO mapping, pagination, and DTO validation.  
 **Tech:** Spring Boot, Spring Data JPA, PostgreSQL, JUnit  
 **Highlights:**  
@@ -66,7 +66,7 @@ I focus on backend systems that are:
 
 ---
 
-### 🔹 Java Utility Library
+### 🔹 Marcowitz optimization model
 **Description:** Utility functions for collections, safe parsing, format helpers and reusable algorithms.  
 **Tech:** Pure Java  
 **Highlights:** Encapsulated helpers used across backend modules.
