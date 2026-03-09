@@ -1,6 +1,6 @@
-# 👋 Hey, I’m Miroslau
+#  Hey, I’m Miroslau
 
-### 🚀 Middle Java Backend Developer — building reliable, scalable backend systems
+###  Middle Java Backend Developer — building reliable, scalable backend systems
 
 I’m a backend engineer specializing in **Java** and modern backend architecture. I design and implement REST APIs and backend services using best practices, clean code principles, automated testing, and production-ready infrastructure.
 
@@ -8,9 +8,9 @@ Driven by quality and real-world requirements, I focus on maintainable systems w
 
 ---
 
-## 💼 Skills & Technologies
+##  Skills & Technologies
 
-### 🧠 Core
+###  Core
 - **Java 11 / 17 / 21** — OOP, Streams, concurrency, memory model, JVM internals
 
 ### 🛠 Backend Frameworks
@@ -18,7 +18,7 @@ Driven by quality and real-world requirements, I focus on maintainable systems w
 - **Spring Data JPA / Hibernate** — ORM and DB mappings  
 - **Spring Security** (JWT & token-based auth)
 
-### 🌐 API & Integrations
+###  API & Integrations
 - REST API design — controllers, DTOs, error handling, pagination
 - OpenAPI / Swagger documentation
 
@@ -53,8 +53,6 @@ I focus on backend systems that are:
 ---
 
 ## 📌 Featured Projects
-
-> 📍 Replace these with your real project links and names.
 
 ### 🔹 MatchingEngine
 **Description:** A Spring Boot REST API with CRUD operations, service layer, DTO mapping, pagination, and DTO validation.  
