@@ -21,7 +21,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I’m a backend engineer specializing in **Java** and modern backend architecture. I design and implement REST APIs and backend services using best practices, clean code principles, automated testing, and production-ready infrastructure.
 
@@ -61,7 +61,7 @@ Driven by quality and real-world requirements, I focus on maintainable systems w
 
 ---
 
-# 🧠 Skills & Technologies
+#  Skills & Technologies
 
 <div align="center">
 
